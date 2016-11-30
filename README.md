@@ -1,4 +1,4 @@
-# TrainingLoad
+## TrainingLoad
 
 In deze centrale opslageplaats bevinden zich:
 # TrainingLoadWatcher
